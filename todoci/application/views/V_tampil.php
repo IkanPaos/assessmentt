@@ -7,7 +7,7 @@
     integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
 <body>
-	<center><h1>Membuat CRUD dengan CodeIgniter</h1></center>
+	<center><h1>CRUD TODO LIST CODEIGNITER</h1></center>
 	<center><?php echo anchor('Crud/input','Tambah Data'); ?></center>
 	<table style="margin:50px auto; width: 800px;" border="1">
 		<tr>
