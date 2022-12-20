@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center><h1>CRUD TODO LIST CODEIGNITER</h1></center>
-	<center><?php echo anchor('Crud/input','Tambah Data'); ?></center>
+	<center><?php echo anchor('Crud/input','Tambah Tugas'); ?></center>
 	<table style="margin:50px auto; width: 800px;" border="1">
 		<tr>
 			<th>No</th>
